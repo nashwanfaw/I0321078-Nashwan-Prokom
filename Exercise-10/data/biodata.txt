@@ -1,0 +1,6 @@
+Nama: Fawzy
+Umur: 18
+Alamat: Bekasi
+Nama: Nashwan
+Umur: 19
+Alamat: Cikarang Barat
